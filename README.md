@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+```
+const Sage = {
+  pronouns: "she" | "her",
+  code: [ HTML, CSS, Javascript, jQuery, Mysql ],
+  tools: [ Vue.js, Node.js ]
+  challenge: "I'm doing the #100DaysOfCode challenge focused on vue."
+}
+```
+
+
+
 <!--
 **Sage-Oh/Sage-Oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
