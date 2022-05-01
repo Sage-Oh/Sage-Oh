@@ -4,7 +4,7 @@
 const Sage = {
   pronouns: "she" | "her",
   code: [ HTML, CSS, Javascript, jQuery, Mysql ],
-  tools: [ Vue.js, Node.js ]
+  tools: [ React.js, Vue.js, Node.js ],
   challenge: "I'm doing the #100DaysOfCode challenge focused on vue."
 }
 ```
